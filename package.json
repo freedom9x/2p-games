@@ -1,0 +1,23 @@
+{
+  "name": "2p-games",
+  "version": "0.0.1",
+  "description": "Some \"pixel\" games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freedom9x/2p-games.git"
+  },
+  "keywords": [
+    "games",
+    "javascript"
+  ],
+  "author": "hienp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freedom9x/2p-games/issues"
+  },
+  "homepage": "https://github.com/freedom9x/2p-games#readme"
+}
